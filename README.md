@@ -28,8 +28,8 @@
 - 2 continuous rotation servos plugged into motorshield pins D1, D2
 - Paper chassis (see below)
 
-Red lines: cut
-Blue dotted lines: mountain fold
+Red lines: cut / 
+Blue dotted lines: mountain fold / 
 Green dotted lines: valley fold
 ![Paper chassis](/paperbot.png "Paper chassis")
 
