@@ -26,4 +26,10 @@
 - NodeMCU Amica DevKit Board (ESP8266 chip)
 - Motorshield for NodeMCU 
 - 2 continuous rotation servos plugged into motorshield pins D1, D2
-- Paper chassis
+- Paper chassis (see below)
+
+Red lines: cut
+Blue dotted lines: mountain fold
+Green dotted lines: valley fold
+![Paper chassis](/paperbot.png "Paper chassis")
+
