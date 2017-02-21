@@ -62,9 +62,9 @@ char* ap_password = "";
 
 // WiFi STA parameters
 char* sta_ssid = 
-  "DG1670AF2"; //gitignore  "...";
+  "...";
 char* sta_password = 
-  "DG1670A6ACDF2"; //gitignore  "...";
+  "...";
 
 char* mDNS_name = "paperbot";
 
