@@ -27,6 +27,7 @@
   * NodeMCU Amica DevKit Board (ESP8266 chip)
   * Motorshield for NodeMCU 
   * 2 continuous rotation servos plugged into motorshield pins D1, D2
+  * Ultra-thin power bank 
   * Paper chassis
 
 */
