@@ -34,3 +34,9 @@ Blue lines: mountain fold /
 Red lines: valley fold
 ![Paper chassis](/paperbot.svg "Paper chassis")
 
+#### Assembly
+
+Here's a video demonstrating how to fold the chassis:
+
+![Folding the chassis](folding.mp4)
+
