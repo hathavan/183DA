@@ -26,11 +26,11 @@
 - NodeMCU Amica DevKit Board (ESP8266 chip)
 - Motorshield for NodeMCU 
 - 2 continuous rotation servos plugged into motorshield pins D1, D2
-- Ultra-thin power bank (available at https://www.amazon.com/dp/B01B2IQL42)
+- Ultra-thin power bank (available at https://www.amazon.com/dp/B076HJTNYJ)
 - Paper chassis (see below)
 
-Red lines: cut / 
-Blue dotted lines: mountain fold / 
-Green dotted lines: valley fold
+Black lines: cut / 
+Blue lines: mountain fold / 
+Red lines: valley fold
 ![Paper chassis](/paperbot.svg "Paper chassis")
 
